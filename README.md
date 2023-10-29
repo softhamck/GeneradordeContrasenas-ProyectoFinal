@@ -1,17 +1,40 @@
-# miproyectoflutter
+# Generador de Contraseñas
 
-A new Flutter project.
+Una aplicación simple de Flutter que te ayuda a crear contraseñas seguras y personalizadas con diferentes configuraciones.
 
-## Getting Started
+## Capturas de Pantalla
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/softhamck/GeneradordeContrasenas-ProyectoFinal/assets/103977411/cde971af-68b1-49cf-ab46-dd9b7d105064)
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Permite al usuario configurar la longitud de la contraseña.
+- Personaliza la contraseña eligiendo entre mayúsculas, minúsculas, números y caracteres especiales.
+- Genera contraseñas seguras basadas en las preferencias del usuario.
+- Muestra la contraseña generada en un formato legible.
+- Validación de las preferencias de generación de contraseñas.
+- Tema personalizable de la aplicación para una experiencia única.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# CalculadoraNotas-ProyectoFinal
+## Uso
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/softhamck/GeneradordeContrasenas-ProyectoFinal.git
+```
+
+2. Abre el proyecto en tu entorno de desarrollo (por ejemplo, Android Studio o Visual Studio Code).
+3. Ejecuta la aplicación en un emulador o dispositivo físico.
+4. Configura tus preferencias de generación de contraseñas.
+5. Presiona el botón "Generar Contraseña" para obtener una contraseña segura y personalizada.
+
+
+## Contribuciones
+Si quieres contribuir a este proyecto, ¡te damos la bienvenida! Puedes abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para mejorar la aplicación.
+
+## Contacto
+Si tienes alguna pregunta, sugerencia o consulta, no dudes en ponerte en contacto con el equipo de desarrollo a través de softhamck@gmail.com.
+
+Enlace al Repositorio
+[Repositorio de GitHub](https://github.com/softhamck/GeneradordeContrasenas-ProyectoFinal)
+
